@@ -1,0 +1,15 @@
+@import "tailwindcss";
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: 2;
+  font-style: normal; */
+}
+
+a {
+  text-decoration: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+

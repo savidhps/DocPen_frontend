@@ -68,7 +68,7 @@ Add the following content to the .env file:
 env
 Copy
 Edit
-DATABASE=mongodb+srv://savidhps:mern@cluster0.xm4oah1.mongodb.net/DocPen?retryWrites=true&w=majority&appName=Cluster0
+DATABASE=
 Install backend dependencies:
 
 bash
